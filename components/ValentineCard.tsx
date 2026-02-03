@@ -55,7 +55,7 @@ const ValentineCard: React.FC<ValentineCardProps> = ({ onYes, onNo, noCount }) =
       </motion.div>
 
       <h1 className="text-4xl font-romantic text-red-500 mb-2">
-        Hey Nishtha...
+        Hey Beautiful...
       </h1>
       <h2 className="text-xl font-bold text-gray-600 mb-10 px-4 leading-tight">
         Will you be my Valentine? 🌹
